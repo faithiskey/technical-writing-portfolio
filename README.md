@@ -90,7 +90,7 @@ Building the model is only the beginning. Making it usable is where the engineer
 
 
 
-###Why EDA and Data Cleaning Matter More Than the Model
+### Why EDA and Data Cleaning Matter More Than the Model
 
 When people talk about data science, machine-learning models often receive most of the attention.
 
@@ -212,7 +212,7 @@ But understanding the data comes first.
 
 
 
-###From Jupyter Notebook to API: Deploying a Machine Learning Model
+### From Jupyter Notebook to API: Deploying a Machine Learning Model
 
 A machine-learning project often begins in a notebook.
 
